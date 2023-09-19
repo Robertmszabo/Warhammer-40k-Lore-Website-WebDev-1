@@ -1,3 +1,35 @@
-.img-w40k {
-    width: 300;
+.t-img{
+    width: 500px;
+}
+
+.UM1-img{
+    width: 500px;
+}
+
+.BT1-img{  
+    width: 500px;
+}
+
+.BA1-img{  
+    width: 500px;
+}
+
+.AE1-img{  
+    width: 500px;
+}
+
+.NE1-img{  
+    width: 500px;
+}
+
+.TY1-img{  
+    width: 500px;
+}
+
+.Armies-img{  
+    width: 500px;
+}
+
+img{
+    max-width: 100%;
 }
