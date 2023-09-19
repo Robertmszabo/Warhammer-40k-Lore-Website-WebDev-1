@@ -29,3 +29,9 @@ Github Requirements
     Link to the deployed site in your README.md
     
   Submit a link to the repository. -->
+
+
+READ BELOW HOW TO MAKE IT WORK
+
+In order to run this website with the images correctly displaying. 
+Make sure to have all files within the same folder. In that same folder make sure the img folder is there next to all the html and css files. Within the img folder should be all the .jpg used on the website
