@@ -12,7 +12,7 @@ Website Requirements
   Two other pages
     3 images with captions
     One table
-    At least one of each: <h1> tag, <h3> tag, <p> tag
+    At least one of each: h1 tag, h3 tag, p tag
     A button that makes something happen, using JavaScript
     Link to homepage
 
@@ -28,4 +28,4 @@ Github Requirements
   Deploy to Github Pages (documentaion, will cover on Thursday)
     Link to the deployed site in your README.md
     
-  Submit a link to the repository.
+  Submit a link to the repository. -->
